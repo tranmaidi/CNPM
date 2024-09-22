@@ -1,0 +1,190 @@
+.box {
+    font-weight: bold;
+    width: 900px;          /* Chiều rộng của khung */
+    height: 700px;         /* Chiều cao của khung */
+    border: 2px solid #000; /* Đường viền của khung */
+    padding: 20px;        
+    margin: 20px;         
+    background-color:rgb(150, 191, 229); 
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); 
+}
+#Cetidicate{
+    display: inline;
+    font-size: 20px;
+}
+.Cetidicate{
+    display: flex;
+    background-color: rgb(94, 151, 224);
+    border: 2px solid black;
+    height: 28px;
+    width: 250px;
+}
+#t{
+    margin-left: 50px;
+    margin-top: 4px;
+}
+#D
+{
+    margin-left: 30px ;
+}
+#textbox4{
+    width: 15px;
+    height: 15px;
+    transform: scale(1.5);
+    background-color: rgb(150, 191, 229);
+    margin: 0px;
+    color: red;
+}
+#textbox5{
+    width: 15px;
+    height: 15px;
+    transform: scale(1.5);
+    background-color: rgb(150, 191, 229);
+    margin: 0px;
+}
+#textbox6{
+    width: 15px;
+    height: 15px;
+    transform: scale(1.5);
+    background-color: rgb(150, 191, 229);
+    margin: 0px;
+    color: rgb(19, 161, 29);
+}
+.textbox{
+    width: 15px;
+    height: 15px;
+    transform: scale(1.5);
+    background-color: rgb(150, 191, 229);
+    margin: 0px;
+}
+#name{
+    font-size: 18px;
+    margin: 0%;
+    justify-content: flex-start; 
+}
+#combobox{
+    width: 700px;
+    height: 27px;
+    margin-top: 0%;
+    font-size: 20;
+}
+.name{
+    width: 80%; 
+    margin: 0 auto;
+    margin-top: 7%;
+}
+.Authority{
+    width: 80%; 
+    margin: 0 auto;
+    margin-top: 2%;
+}
+#Authority{
+    font-size: 18px;
+    margin: 0%;
+}
+#text1{
+    width: 693px;
+    height: 21px;
+    margin-top: 1%;
+    font-size: 20; 
+}
+.Number{
+    width: 80%; 
+    margin: 0 auto;
+    margin-top: 2%;
+}
+#Number{
+    font-size: 18px;
+    margin: 0%;
+}
+#tNumber
+{
+    width: 693px;
+    height: 21px;
+    margin-top: 0%;
+    font-size: 20; 
+}
+.Date{
+    margin-top: 2%;
+    margin-left: 90px;
+    display: flex;
+}
+#Achieved{
+    font-size: 18px;
+    margin: 0%;
+}
+#combobox1{
+    height: 27px;
+    width: 185px;
+    margin: 0%;
+}
+.Expired{
+    margin-left: 3%;
+}
+#Expired{
+    font-size: 18px;
+    margin: 0%;
+}
+#combobox2{
+    height: 27px;
+    width: 185px;
+    margin: 0%;
+}
+.kt{
+    display: flex;
+    margin-left: 20px;
+}
+#c{
+    margin-left: 5px;
+    font-size: 18px;
+}
+#ckb1 input[type="checkbox"]{
+    height: 27;
+    width: 27;
+}
+.Score{
+    display: flex;
+    margin-top: 2%;
+    margin-left: 90px;
+}
+.kt1{
+    display: flex;
+    margin-left: 20px;
+}
+#tb2{
+    width: 400px;
+    height: 21px;
+    margin-top: 0%;
+}
+#b{
+    font-size: 18px;
+}
+#Score{
+    font-size: 18px;
+    margin: 0%;
+}
+.De{
+    margin-top: 2%;
+    margin-left: 90px;
+}
+#De{
+    font-size: 18px;
+    margin: 0%;
+}
+#tb3{
+    width: 693px;
+    height: 60px;
+    margin-top: 0%;
+}
+.Bt{
+    margin-top: 5%;
+    margin: 20px;
+    margin-left: 75px;
+}
+.button{
+    margin:  20px;
+    font-weight: bold;
+    height: 35px;
+    width: 90px;
+    font-size: 18px;
+}
